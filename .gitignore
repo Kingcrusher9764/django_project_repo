@@ -1,0 +1,11 @@
+__pycache__
+*.swp
+*.sqlite3
+django_venv
+.vscode
+.env
+htmlcov
+.coverage
+migrations
+venv
+node_modules
